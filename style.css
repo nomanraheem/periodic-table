@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+    margin: 0em;
+    padding: 0em;
+    font-size: 24px;
+    width: 100%;
+}
+body{
+    background-color: aqua;
+    
+}
+nav{
+    background-color: rgb(212, 212, 32);
+    text-align: center;
+    width: 100%;
+       
+    
+}
+
+.cantinar {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between; 
+    padding-right: 10px;
+    padding-left: 10px;
+       
+}
+figcaption{
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    margin: 0px;
+
+}
+*figcaption{
+margin: 0.5rem; 
+
+    
+}
+.one {
+    width: 22%;
+
+    
+}
+
+.two {
+    width: 22%;
+}
+
+.three {
+    width: 22%;
+}
+
+.four {
+    width: 22%;
+}
+
+.five {
+    width: 48%;
+}
+
+.six {
+    width: 48%;
+}
+.seven {
+    width: 74%;
+}
+
+.eight {
+    width: 22%;
+}
+
+.nine {
+    width: 100%;
+}
+
+.ten {
+    width: 22%;
+}
+
+.eleven {
+    width: 48%;
+}
+
+.twoelve {
+    width: 22%;
+}
+footer{
+
+    width: 100%;
+    
+}
+@media only screen and (min-width:600px){
+body{
+    background-color: blue;
+} 
+}
+
+
+
+
+
+    
+
+    
+
+ 
+    
+ 
+    
